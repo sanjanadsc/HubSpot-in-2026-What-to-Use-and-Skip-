@@ -22,9 +22,6 @@ Read the full article (PDF):
 - FAQs
 
 
-## Who This Guide Is Not For
-Teams looking for a feature-by-feature HubSpot comparison
-Companies expecting AI to replace strategy or process
-Orgs that don’t care about data hygiene, lifecycle discipline, or governance
+
 Anyone who wants a “turn everything on and hope” implementation
 
