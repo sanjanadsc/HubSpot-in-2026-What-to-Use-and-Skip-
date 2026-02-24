@@ -23,5 +23,4 @@ Read the full article (PDF):
 
 
 
-Anyone who wants a “turn everything on and hope” implementation
 
