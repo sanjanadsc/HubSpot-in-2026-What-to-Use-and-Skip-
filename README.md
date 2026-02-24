@@ -1,10 +1,30 @@
 # HubSpot-in-2026-What-to-Use-and-Skip-
 The honest truth: HubSpot is now a suite, not a tool
-# HubSpot in 2026: What to Use (and Skip)
+Read the full article (PDF):
 
-> A practical, opinionated guide for founders, marketers, sales leaders, and RevOps teams on how to use HubSpot without overbuying or breaking your data.
 
-- HubSpot is a suite, not a tool
-- Pick a “HubSpot shape” before buying
-- Clean CRM > fancy automation
-- Measure pipeline, not vibes
+## What this article covers
+- What to use vs skip in HubSpot in 2026
+- Smart CRM, Marketing, Sales, Service, AI (Breeze)
+- Pricing traps and shelfware risks
+- Real metrics that matter (pipeline, NPS, CAC)
+
+## Table of Contents
+- Why HubSpot Changed
+- Pick Your HubSpot Shape
+- What to Use in 2026
+- What to Skip (Usually)
+- Sales, Marketing, Service Deep Dives
+- Integrations & Governance
+- Executive Dashboards
+- Pricing Traps
+- Use vs Skip Cheat Sheet
+- FAQs
+
+
+## Who This Guide Is Not For
+Teams looking for a feature-by-feature HubSpot comparison
+Companies expecting AI to replace strategy or process
+Orgs that don’t care about data hygiene, lifecycle discipline, or governance
+Anyone who wants a “turn everything on and hope” implementation
+
