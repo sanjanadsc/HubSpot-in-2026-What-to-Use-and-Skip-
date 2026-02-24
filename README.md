@@ -1,6 +1,7 @@
 # HubSpot-in-2026-What-to-Use-and-Skip-
 The honest truth: HubSpot is now a suite, not a tool
-Read the full article (PDF):
+Read the full article (PDF): https://github.com/sanjanadsc/HubSpot-in-2026-What-to-Use-and-Skip-/blob/main/HubSpot%20in%202026.pdf
+
 
 
 ## What this article covers
