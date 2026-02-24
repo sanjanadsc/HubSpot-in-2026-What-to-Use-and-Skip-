@@ -9,6 +9,7 @@ Read the full article (PDF):
 - Pricing traps and shelfware risks
 - Real metrics that matter (pipeline, NPS, CAC)
 
+
 ## Table of Contents
 - Why HubSpot Changed
 - Pick Your HubSpot Shape
